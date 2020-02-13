@@ -3,3 +3,4 @@ white
 the old mouse's scroll is bad
 this file has been cloned to local disk
 create branch b2
+after merging continue to change b2
