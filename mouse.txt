@@ -1,3 +1,4 @@
 logitech M330 mouse
 white
 the old mouse's scroll is bad
+this file has been cloned to local disk
